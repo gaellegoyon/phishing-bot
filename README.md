@@ -22,7 +22,7 @@ Un bot de détection de phishing pour Slack, analysant les liens partagés via l
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/gaellegoyon/phishing_bot.git
+   git clone https://github.com/gaellegoyon/phishing-bot.git
    cd phishing-bot
    ```
 
