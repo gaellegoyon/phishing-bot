@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+*.env
+.env.*
+
+# Docker
+*.log
+docker-compose.override.yml
+docker-compose.override.yaml
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and debugging
+*.log
+*.trace
+*.out
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# Test and coverage reports
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+.nox/
+.cache/
+pytest_cache/
+coverage.xml
+nosetests.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+*.~*
+*.orig
+*.rej
+
+# Backup files
+*.bak
+*.old
+*.save
+*.swp
+*.swo
+
+# Other
+*.sqlite3
+*.db
+*.tar
+*.gz
+*.zip
+*.7z
+*.rar
+*.tar.gz
+*.tgz
